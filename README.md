@@ -75,3 +75,6 @@ This is my project to type the entire King James Bible into the JSON format.
 - [ ] III John
 - [ ] Jude
 - [ ] Revelation
+
+## License:
+This project is licensed under the [Creative Commons CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/legalcode.en). A copy of the licence is included with the JSON in the file [LICENSE](LICENSE). If you `git clone` or download this repository, you should receive that license alongside the code. I have dedicated this repository to the public domain for anyone to use in any manor.
