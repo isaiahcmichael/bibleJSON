@@ -26,7 +26,7 @@ This is my project to type the entire King James Bible into the JSON format.
 - [ ] Esther
 - [ ] Job
 - [ ] Psalms
-- [ ] Proverbs (**Chapter 1 in JSON**)
+- [ ] Proverbs (**Chapters 1-3 in JSON**)
 - [ ] Ecclesiastes
 - [ ] Song of Solomon
 - [ ] Isaiah
